@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# For the Miniconda3 installer
+export PATH="/Users/damoun/miniconda3/bin:$PATH"
