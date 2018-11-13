@@ -21,8 +21,6 @@ files="bash_profile bashrc bash_prompt aliases exports octaverc path config/git/
 
 ##########
 
-curl "https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash" > ${homedir}/.git-completion.bash
-
 # change to the dotfiles directory
 echo "Changing to the ${dotfiledir} directory"
 cd ${dotfiledir}
