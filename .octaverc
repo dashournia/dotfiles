@@ -1,8 +1,0 @@
-#!/bin/bash
-
-# GNUplot
-setenv('GNUTERM','qt')
-graphics_toolkit("gnuplot")
-
-# Dynare
-addpath /usr/local/opt/dynare/lib/dynare/matlab

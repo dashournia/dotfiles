@@ -1,7 +1,0 @@
-[user]
-	name = Damoun Ashournia
-	email = 2600714+dashournia@users.noreply.github.com
-[core]
-	editor = subl -n -w
-[commit]
-	template = /Users/damoun/.config/git/gitmessage.txt
