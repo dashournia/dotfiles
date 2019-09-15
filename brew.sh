@@ -14,6 +14,7 @@ brew cask install mactex
 brew cask install skim
 brew cask install hiarcs-chess-explorer
 brew cask install android-file-transfer
+brew cask install libreoffice
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
