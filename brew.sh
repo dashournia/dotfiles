@@ -6,6 +6,7 @@ brew install python
 # Install MacOS Applications
 brew cask install google-chrome
 brew cask install sublime-text
+brew cask install visual-studio-code
 brew cask install google-backup-and-sync
 brew cask install dropbox
 brew cask install r
@@ -15,6 +16,7 @@ brew cask install skim
 brew cask install hiarcs-chess-explorer
 brew cask install android-file-transfer
 brew cask install libreoffice
+brew cask install julia
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
